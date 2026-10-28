@@ -1,6 +1,6 @@
 # Hi there, I'm ANKITA SAJJANSHETTY! 👋
 
-### 🚀 Aspiring Data Scientist with Gen-AI Graduate
+### 🚀 Aspiring Data Science with Gen-AI Graduate
 
 <!-- Quick Links & Contact Badge Bar -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-sajjanshetty-5404a22a6?)
