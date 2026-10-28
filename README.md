@@ -3,7 +3,7 @@
 ### 🚀 Aspiring Data Scientist with Gen-AI Graduate
 
 <!-- Quick Links & Contact Badge Bar -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-sajjanshetty-5404a22ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-sajjanshetty-5404a22a6?)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitasajjan777@gmail.com)
 [![Contact](https://img.shields.io/badge/Contact-+917338550102-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917338550102)
 
