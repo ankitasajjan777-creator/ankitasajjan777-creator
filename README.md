@@ -5,9 +5,7 @@
 <!-- Quick Links & Contact Badge Bar -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-sajjanshetty-5404a22a6?)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitasajjan777@gmail.com)
-[![Contact](https://img.shields.io/badge/Contact-+917338550102-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917338550102)
 
----
 
 ### 📝 Profile & Objective
 * **Objective:** Aspiring Data Science with Gen-AI graduate seeking to apply my skills in machine learning and data analysis, to build real-world solutions and gain industry experience.
@@ -67,18 +65,4 @@
 * Built a chatbot to recommend songs based on user emotions using sentiment analysis.
 * Developed using Flask and NLP, with a web interface (HTML, CSS).
 * Deployed on AWS EC2 for cloud-based access.
-
 ---
-
-### 🎓 Education
-* **Bachelor of Engineering (B.E.)** - Visvesvaraya Technological University *(Expected Graduation: 2026)*
-* **12th (PUC)**: 75.83% | Basaveshwar Composite PU College *(2020-22)*
-* **10th (SSLC)**: 71.81% | Shree Basaveshwar High School (E.M) *(Passed in 2020)*
-
----
-
-### 🌱 Extra-Curricular & Volunteering
-* 🤝 Helping local schools to achieve good results and enhance enrollment in Technical Education.
-* 🇮🇳 Contribution to Swachh Bharat—Government of India’s national initiative.
-* 🏫 Government school Rejuvenation—helping schools improve and achieve better infrastructure.
--->
